@@ -1,8 +1,8 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1790211809
+::res://::1790231060
 icon.svg::CompressedTexture2D::3265202287083219066::1789461712::1789461719::1::::<><><>0<>0<>bd3b113a1e6d3cf2b4f5e5b765d2632a<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 KARAKTER MC-Sheet1.png::CompressedTexture2D::1756132381867597332::1789659876::1789659876::1::::<><><>0<>0<>42c5673ccb158f39564efbbf4fcbdd23<>res://.godot/imported/KARAKTER MC-Sheet1.png-b1ac2895eb917c90b060c8a7555fefd4.ctex::
-map_utama.tscn::PackedScene::3926168579891854461::1789970988::0::1::::<><><>0<>0<><>::uid://bsnd0cvr0dks6::::res://Revisi map1.png<>uid://c0dxv377axoo::::res://player.tscn
+map_utama.tscn::PackedScene::3926168579891854461::1790220756::0::1::::<><><>0<>0<><>::uid://bsnd0cvr0dks6::::res://Revisi map1.png<>uid://c0dxv377axoo::::res://player.tscn
 player.gd::GDScript::6692083201891480308::1789956542::0::1::::<>CharacterBody2D<><>0<>0<><>::
 player.tscn::PackedScene::192211503107271238::1789892522::0::1::::<><><>0<>0<><>::uid://0axij1s4gw81::::res://KARAKTER MC-Sheet1.png<>uid://c2lxvrkc6u5fc::::res://player.gd
 Revisi map1.png::CompressedTexture2D::3676883714099916595::1789461952::1789461953::1::::<><><>0<>0<>aba31c31ed03ce602593c7b12503a9a2<>res://.godot/imported/Revisi map1.png-b393ed2d6b8799e88bd058475e95d08e.ctex::
